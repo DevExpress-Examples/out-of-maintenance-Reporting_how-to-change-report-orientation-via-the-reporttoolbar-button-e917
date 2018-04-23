@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\ReportViewerChangeOrientation\", "ReportViewerChangeOrientation\", "{5F15DC03-3500-4F12-9488-5E4CA5901330}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/ReportViewerChangeOrientation"
+		Debug.AspNetCompiler.PhysicalPath = "ReportViewerChangeOrientation\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ReportViewerChangeOrientation\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ReportViewerChangeOrientation"
+		Release.AspNetCompiler.PhysicalPath = "ReportViewerChangeOrientation\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ReportViewerChangeOrientation\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63114"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F15DC03-3500-4F12-9488-5E4CA5901330}.Debug|.NET.ActiveCfg = Debug|.NET
+		{5F15DC03-3500-4F12-9488-5E4CA5901330}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
