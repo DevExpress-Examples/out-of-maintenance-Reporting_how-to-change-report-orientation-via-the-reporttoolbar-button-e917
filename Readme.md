@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/ReportViewerChangeOrientation/Default.aspx) (VB: [Default.aspx](./VB/ReportViewerChangeOrientation/Default.aspx))
-* [Default.aspx.cs](./CS/ReportViewerChangeOrientation/Default.aspx.cs) (VB: [Default.aspx](./VB/ReportViewerChangeOrientation/Default.aspx))
+* [Default.aspx.cs](./CS/ReportViewerChangeOrientation/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ReportViewerChangeOrientation/Default.aspx.vb))
 <!-- default file list end -->
 # How to change report orientation via the ReportToolbar button
 
